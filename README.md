@@ -1,3 +1,7 @@
+-=(C64_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
 # C64 for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 Based on FPGA64 by Peter Wendrich with heavy later modifications by different people.
