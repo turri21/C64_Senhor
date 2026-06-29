@@ -1,0 +1,6 @@
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) sid_top.v ]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) sid_voice.v ]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) sid_filter.v ]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) sid_envelope.v ]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) sid_dac.v ]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) sid_cutoff.v ]
